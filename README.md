@@ -122,6 +122,9 @@ else:
 
 ```
 ## Sample Input and Output
+![image](https://github.com/Saiguruchandran/Search-Algorithm/assets/144870946/841951b5-2d2f-4230-882d-ecb3006cced2)
+![image](https://github.com/Saiguruchandran/Search-Algorithm/assets/144870946/841a8b3a-a390-4745-9a8a-6a35dd578d31)
+![image](https://github.com/Saiguruchandran/Search-Algorithm/assets/144870946/89a9100e-cda0-4914-926f-8af74816a0e2)
 
 
 
